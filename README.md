@@ -7,7 +7,7 @@
 
 ### Summary of Dashboard Components
 
-### 1. Key Metrics (Summary Cards)
+### 1. Key Metrics (Cards)
 
 - **Total Sales:** Overall revenue generated.
 - **Total Quantity Sold:** Total units sold across all products.
